@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=200&section=header&text=Hi,%20I'm%20NAMA%20KAMU&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=200&section=header&text=Hi,%20I'm%20Viorenza%20Videlya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://github.com/virnzh">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1E88E5&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Clean+Code+Enthusiast;Open+Source+Contributor;Turning+ideas+into+products" alt="Typing SVG" />
