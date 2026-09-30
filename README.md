@@ -8,9 +8,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=1E88E5&style=flat-square)
-![Followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=1E88E5)
-![Stars](https://img.shields.io/github/stars/USERNAME?label=Stars&style=flat-square&color=1E88E5)
+![Profile Views](https://komarev.com/ghpvc/?username=virnzh&label=Profile%20Views&color=1E88E5&style=flat-square)
+![Followers](https://img.shields.io/github/followers/virnzh?label=Followers&style=flat-square&color=1E88E5)
+![Stars](https://img.shields.io/github/stars/virnzh?label=Stars&style=flat-square&color=1E88E5)
 
 </div>
 
