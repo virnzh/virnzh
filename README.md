@@ -64,12 +64,12 @@ Saya senang membangun aplikasi yang rapi, mudah dirawat, dan bermanfaat bagi ban
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=blue-green&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=blue-green&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=virnzh&show_icons=true&theme=blue-green&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virnzh&layout=compact&theme=blue-green&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=blue-green&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=virnzh&theme=blue-green&hide_border=true" />
 
 </div>
 
@@ -79,9 +79,9 @@ Saya senang membangun aplikasi yang rapi, mudah dirawat, dan bermanfaat bagi ban
 
 | Proyek | Deskripsi | Teknologi |
 |--------|-----------|-----------|
-| [**Nama Proyek 1**](https://github.com/USERNAME/proyek-1) | Deskripsi singkat tentang proyek dan manfaatnya | `React` `Node.js` |
-| [**Nama Proyek 2**](https://github.com/USERNAME/proyek-2) | Deskripsi singkat tentang proyek dan manfaatnya | `Laravel` `MySQL` |
-| [**Nama Proyek 3**](https://github.com/USERNAME/proyek-3) | Deskripsi singkat tentang proyek dan manfaatnya | `Python` `FastAPI` |
+| [**Nama Proyek 1**](https://github.com/virnzh/proyek-1) | Deskripsi singkat tentang proyek dan manfaatnya | `React` `Node.js` |
+| [**Nama Proyek 2**](https://github.com/virnzh/proyek-2) | Deskripsi singkat tentang proyek dan manfaatnya | `Laravel` `MySQL` |
+| [**Nama Proyek 3**](https://github.com/virnzh/proyek-3) | Deskripsi singkat tentang proyek dan manfaatnya | `Python` `FastAPI` |
 
 ---
 
@@ -93,7 +93,7 @@ Saya senang membangun aplikasi yang rapi, mudah dirawat, dan bermanfaat bagi ban
 Semua orang yang mampir ke profil ini bisa ikut main di papan yang sama!<br>
 Klik tombol, lalu tekan **Submit new issue**. Dalam ±1 menit dadumu dilempar dan papan ini otomatis diperbarui.
 
-## [🎲 LEMPAR DADU SEKARANG](https://github.com/USERNAME/USERNAME/issues/new?title=ular-tangga%3A%20lempar%20dadu&body=Klik%20tombol%20hijau%20%27Submit%20new%20issue%27%20untuk%20melempar%20dadu%21%20%F0%9F%8E%B2)
+## [🎲 LEMPAR DADU SEKARANG](https://github.com/virnzh/virnzh/issues/new?title=ular-tangga%3A%20lempar%20dadu&body=Klik%20tombol%20hijau%20%27Submit%20new%20issue%27%20untuk%20melempar%20dadu%21%20%F0%9F%8E%B2)
 
 </div>
 
@@ -141,10 +141,10 @@ _Belum ada pemenang._
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://website-kamu.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@kamu.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/viorenza-videlya-0a754443b/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://google.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viorenza.r.videlya@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viorenzavidelya)
 
 </div>
 
